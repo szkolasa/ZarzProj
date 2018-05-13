@@ -6,5 +6,6 @@ namespace ZarzProj
 {
     interface IInterface
     {
+        void Do();
     }
 }
